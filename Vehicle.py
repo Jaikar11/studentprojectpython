@@ -1,4 +1,4 @@
-# This is a parent class  - Vehicle class
+# This is a parent class  - Vehicle
 
 class Vehicle:
     def __init__(self, v_type, make, color, model):
