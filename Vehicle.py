@@ -8,8 +8,9 @@ class Vehicle:
         self.v_type = v_type
 
     def printDetails(self):
+        print("\n")
         if self.v_type == "Car":
             print("Vehicle Type:", self.v_type )
         print("Manufacturer:", self.make)
         print("Color:", self.color)
-        print("Model:", self.model)
+        print("Model:", self.model,)
