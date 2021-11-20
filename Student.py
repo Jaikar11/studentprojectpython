@@ -1,9 +1,6 @@
 # Setter and Getter Class
 
 class Student:
-   # def __init__(self,name="None",rollNumber=0):
-    #    self._name = name
-    #    self._rollnumber = 0
 
     def setName(self,name):
         self.__name = name
