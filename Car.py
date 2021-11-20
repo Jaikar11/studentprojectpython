@@ -9,7 +9,7 @@ class Car(Vehicle):
 car1 = Car("Car Hatchback","VW","Grey","Golf");
 car1.printDetails()
 
-car2 = Car("Car 4x4","Jeep","Black","Wrangler");
+car2 = Car("Car Estate","Mercedes Benz","Silver","S-Class");
 car2.printDetails()
 
 
